@@ -1,10 +1,10 @@
 
 
+
 <div align="center">
-
-<img src="assets/github-banner.png" width="100%" alt="Sangameshwar Reddy — Building Intelligent Systems" />
-
+  <img src="https://github.com/sangameshwarreddi/sangameshwarreddi/blob/main/Neon%20Mesh%20Personal%20Brand%20Banner.png" width="100%" alt="Sangameshwar Reddy — Building Intelligent Systems" />
 </div>
+
 
 
 <div align="center">
