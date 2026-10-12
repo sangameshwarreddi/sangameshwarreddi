@@ -12,7 +12,7 @@
 Building practical AI applications with LLMs, retrieval systems, intelligent agents, and modern software engineering.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sangameshwarreddi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/](https://www.linkedin.com/in/patlolla-sangameshwar-reddy-454822275)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patlolla-sangameshwar-reddy-454822275/)
 
 </div>
 
