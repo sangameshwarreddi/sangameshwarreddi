@@ -14,7 +14,7 @@ Building practical AI applications with LLMs, retrieval systems, intelligent age
 
 ---
 
-## `$ whoami`
+## `$ who am i`
 
 I'm a software engineer interested in building reliable, AI-powered applications that solve real problems.
 
@@ -95,7 +95,7 @@ Exploring how AI agents can interact with external tools and services.
 I'm interested in AI engineering, backend systems, and building useful developer tools.
 
 - GitHub: [@sangameshwarreddi](https://github.com/sangameshwarreddi)
-- LinkedIn: [Add your LinkedIn profile URL](https://www.linkedin.com/)
+- LinkedIn: https://www.linkedin.com/in/patlolla-sangameshwar-reddy-454822275/
 
 <div align="center">
 
