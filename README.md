@@ -3,7 +3,7 @@
 
 # Hey, I'm Sangameshwar Reddy 👋
 
-### AI Engineer | Generative AI | Agentic AI
+### Generative AI | Agentic AI
 
 Building practical AI applications with LLMs, retrieval systems, intelligent agents, and modern software engineering.
 
