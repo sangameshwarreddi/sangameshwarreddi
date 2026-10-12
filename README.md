@@ -1,4 +1,12 @@
 
+
+<div align="center">
+
+<img src="assets/github-banner.png" width="100%" alt="Sangameshwar Reddy — Building Intelligent Systems" />
+
+</div>
+
+
 <div align="center">
 
 # Hey, I'm Sangameshwar Reddy 👋
