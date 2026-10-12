@@ -14,7 +14,7 @@ Building practical AI applications with LLMs, retrieval systems, intelligent age
 
 ---
 
-## `$ who am i`
+## `$ whoami`
 
 I'm a software engineer interested in building reliable, AI-powered applications that solve real problems.
 
