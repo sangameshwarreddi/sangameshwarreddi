@@ -75,9 +75,6 @@ Exploring how AI agents can interact with external tools and services.
 - Tool discovery and invocation
 - Multi-agent workflows and task orchestration
 - Focus: connecting agents to reusable capabilities
-
-> Replace or link these project sections to your actual repositories. Only describe features that are implemented and working.
-
 ---
 
 ## `$ currently-learning`
